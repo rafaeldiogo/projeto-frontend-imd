@@ -10,6 +10,5 @@
 - Mongoose
 
 # Comando para iniciar o projeto
-- Abrir um terminal e utilizar o comando no diretório da pasta frontinsta: npm install
-- No terminal, utilizar o comando no diretório da pasta backend: npm run server
-- Abrir um segundo terminal e utilizar o comando no diretório da pasta frontend: npm start
+- Abrir um terminal e utilizar o comando no diretório da pasta backend: npm install e depois npm run server
+- Abrir um segundo terminal e utilizar o comando no diretório da pasta frontend: npm install e depois npm start
